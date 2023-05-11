@@ -18,6 +18,9 @@ SCRIPT HECHO POR: DEIMIAN R
 
 
 -Opciones:
+
 pili_allports.py [-h] (para mostrar instrucciones)
+
 pili_allports.py [-s IP_inicial] [-e IP_final] (escanea un RANGO DE IP)
+
 pili_allports.py [-i IP] (escaneo puertos de una IP)
