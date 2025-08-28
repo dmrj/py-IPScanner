@@ -1,7 +1,6 @@
 # py-IPScanner
-scanner de red/es en python
-
-
+Escanea e identifica las IPs conectadas a una Red
+Desarollado en Python
 
 *************************************
 BY DMRJ
