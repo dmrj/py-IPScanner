@@ -4,7 +4,7 @@ scanner de red/es en python
 
 
 *************************************
-SCRIPT HECHO POR: DEIMIAN R
+BY DMRJ
 *************************************
 
            |INSTRUCCIONES|
